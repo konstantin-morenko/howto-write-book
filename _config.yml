@@ -1,0 +1,14 @@
+remote_theme: konstantin-morenko/just-the-docs
+
+title: Шаблон
+description: Шаблон
+
+aux_links:
+  "Константин Моренко":
+    - "https://konstantin-morenko.ru"
+  "Все проекты":
+    - "https://konstantin-morenko.ru/all-projects"
+
+ycnumber: 69954367
+# mathjax: true
+# title_font_size: 18px
