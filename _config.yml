@@ -1,0 +1,15 @@
+remote_theme: konstantin-morenko/just-the-docs
+
+title: Как написать книгу 12+
+description: |
+
+  Трудно ли написать книгу?  Что нужно сделать для этого?  Какие
+  задачи важны, а какие могут и подождать?
+
+aux_links:
+  "Константин Моренко":
+    - "https://konstantin-morenko.ru"
+
+ycnumber: 69954367
+# mathjax: true
+title_font_size: 18px
