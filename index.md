@@ -28,3 +28,4 @@ permalink: /
 Скачать электронную книгу:
 - [EPUB](pub/morenko-k-howto-write-book.epub)
 
+<a href="{{ site.baseurl }}{% link 1-intro/from-author.md %}">Читать онлайн</a>
