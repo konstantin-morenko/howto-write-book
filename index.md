@@ -29,3 +29,7 @@ permalink: /
 - [EPUB](pub/morenko-k-howto-write-book.epub)
 
 <a href="{{ site.baseurl }}{% link 1-intro/from-author.md %}">Читать онлайн</a>
+
+Я всегда рад замечаниям и предложениям по улучшению книги.
+Предложения и пожелания направляйте по адресу:
+<web@konstantin-morenko.ru> с заголовком «Как написать книгу».
